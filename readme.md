@@ -1,4 +1,4 @@
-# ⊡ hypertosh
+# ⊡ [hyper](https://hyperterm.org/)tosh
 
 HyperTerm with a nostalgic Macintosh flair.
 
