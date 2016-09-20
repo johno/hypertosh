@@ -1,0 +1,19 @@
+{
+  "name": "hypertosh",
+  "description": "HyperTerm with a nostalgic Macintosh flair",
+  "author": "John Otander",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": "johnotander/hypertosh",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-plugin",
+    "tosh",
+    "macintosh",
+    "retro"
+  ],
+  "license": "MIT"
+}
