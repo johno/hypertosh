@@ -2,7 +2,7 @@
 
 HyperTerm with a nostalgic Macintosh flair.
 
-![unspecified](https://cloud.githubusercontent.com/assets/1424573/18689789/31a90df4-7f48-11e6-89a7-0b6a02a07fa5.png)
+![unspecified-1](https://cloud.githubusercontent.com/assets/1424573/18689874/9c0a00d6-7f48-11e6-9ec3-698e2a7d51ef.png)
 
 ## Installation
 
